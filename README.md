@@ -101,9 +101,7 @@ CHROMA_DB_PATH=./chroma_db
 python app.py
 
 
-Frontend (React) → http://localhost:3000
 
-Frontend (Streamlit) → http://localhost:8501
 
 🕹️ Gameplay
 
