@@ -25,7 +25,7 @@ This allows for endless replayability while maintaining **coherent storytelling*
 ---
 
 ## 🏗️ Architecture
-```mermaid
+
 flowchart TD
     A[Player Input] --> B[RAG Retriever (ChromaDB)]
     B --> C[Relevant Lore & Rules]
